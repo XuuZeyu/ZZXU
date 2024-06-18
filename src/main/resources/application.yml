@@ -1,0 +1,6 @@
+#配置服务器根路径名字  不配置默认为 /
+server:
+  servlet:
+    context-path:
+#配置端口 默认 8080
+  port: 8080
